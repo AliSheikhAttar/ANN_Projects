@@ -1,10 +1,10 @@
 ## ANN_Projects
-#Part I:<br/ >
-Predicting 1-dimentional functinon using linear regreaaion<br/ >
-#Part II:<br/ >
-Predicting 1-dimentional functinon with noise using linear regressinon<br/ >
-#Part III:<br/ >
-Predicting 2-dimentional funnction using MLP regression<br/ >
+#Part I:<br />
+Predicting 1-dimentional functinon using linear regreaaion<br />
+#Part II:<br />
+Predicting 1-dimentional functinon with noise using linear regressinon<br />
+#Part III:<br />
+Predicting 2-dimentional funnction using MLP regression<br />
 #Part IV:<br/ >
 Predicting an arbitrary function drawn in the .png file using MLP regression<br/ >
 #Part V:<br/ >
